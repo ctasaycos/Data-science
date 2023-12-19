@@ -4,6 +4,7 @@ it means the users who make the purchases are by far lower than the ones who mak
 Library: sklearn
 Machine learning model: LogisticRegression
 Sampling methodology: SMOTE
+OS: Mac OS X
 Note: This projectas was awarded and invited internationall because was applied in a real company successfully increasing the revenue for over 100% and create a new business line in the consulting firm.
 '''
 import pandas as pd
